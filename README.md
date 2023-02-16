@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-# Horario | lunes                  | martes                | miercoles             | jueves      | viernes     |
+# Horario 
+
+| lunes                  | martes                | miercoles             | jueves      | viernes     |
 |------------------------|-----------------------|-----------------------|-------------|-------------|
 | comunidades  virtuales | TICs                  | TICs                  | fisica      | TICs        |
 | fisica                 | biologia              | biologia              | ed fisica   | biologia    |
