@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**Lufori16/Lufori16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +12,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+# Horario | lunes                  | martes                | miercoles             | jueves      | viernes     |
+|------------------------|-----------------------|-----------------------|-------------|-------------|
+| comunidades  virtuales | TICs                  | TICs                  | fisica      | TICs        |
+| fisica                 | biologia              | biologia              | ed fisica   | biologia    |
+| matematicas            | fisica                | literatura            | matematicas | matematicas |
+| biologia               | matematicas           | fisica                | TICs        | fisica      |
+| receso                 | receso                | receso                | receso      | receso      |
+| literatura             | comunidades virtuales | orientacion educativa | ingles      | historia    |
+| ingles                 | comunidades virtuales | matematicas           | historia    | literatura  |
+|                        |                       |                       | biologia    | ingles      |
+|                        |                       |                       |             |             |
